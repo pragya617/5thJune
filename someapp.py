@@ -6,3 +6,5 @@ print("hello pragya")
 -----------------------------------------
 
 print("code added by 2nd developer")
+print("line added by 1st developer")
+
